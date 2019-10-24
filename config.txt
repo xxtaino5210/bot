@@ -20,7 +20,7 @@ token = NjAxNDUyNDI0NDk4MTE4NjU3.XZoPZw.F71OB1149oS-KyHG9GoDVpaaWXU
 // This needs to be the owner's ID (a 17-18 digit number)
 // https://github.com/jagrosh/MusicBot/wiki/Finding-Your-User-ID
 
-owner = 532975798664298499
+owner = 636007137771782155
 
 
 // This sets the prefix for the bot
@@ -28,7 +28,7 @@ owner = 532975798664298499
 // If you use !!, the play command will be !!play
 // If you do not set this, the prefix will be an @mention of the bot (@Botname play)
 
-prefix = "t"
+prefix = "i"
 
 
 // If you set this, it modifies the default game of the bot
@@ -38,7 +38,7 @@ prefix = "t"
 // where X is the title. If you don't include an action, it will use the
 // default of "Playing"
 
-game = "ماذا لو اخذنا الموسيقى عُذراً لبدء الحديث ؟"
+game = "شّام العظيمه"
 
 
 // If you set this, it will modify the default status of bot
@@ -57,7 +57,7 @@ songinstatus = false
 // If you set this, the bot will also use this prefix in addition to
 // the one provided above
 
-altprefix = "ta"
+altprefix = "i"
 
 
 // If you set these, it will change the various emojis
